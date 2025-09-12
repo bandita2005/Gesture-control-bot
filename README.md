@@ -1,4 +1,6 @@
-# Gesture-control-bot
+# AGRIGEST BOT: Agriculture Gesture-control-bot
+
+Agri-Gest Bot is a gesture-controlled agricultural robot powered by ESP32.It interprets farmer’s hand gestures using the LSM6DSO sensor for navigation and control with TB6612FNG motor driver and payload modules handle movement and farming tasks. We aim to structure it to aid farmer in efficient sowing, precise watering and spraying fertilizing to minimise resources wastage, physical strain on farmers and no need of prior knowledge of technology for rural small-scale farmers.
 
 # ESP32 Robot Transmitter
 
